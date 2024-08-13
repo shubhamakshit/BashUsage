@@ -8,7 +8,7 @@
 ### `cd` -> \[c]hange to a \[d]irectory
 ### `touch` -> (touch) create a new file
 
-![](Excalidraw/basic_bash.excalidraw)
+![](Excalidraw/basic_bash.excalidraw.svg)
 Have a quick look at the usages of the commands below 
 We will dive into them one by one.
 
