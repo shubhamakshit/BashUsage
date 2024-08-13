@@ -9,10 +9,6 @@
 ### `touch` -> (touch) create a new file
 
 ![](Excalidraw/basic_bash.excalidraw.svg)
-Have a quick look at the usages of the commands below 
-We will dive into them one by one.
-
-![Made with VHS](https://vhs.charm.sh/vhs-5HOzaioJWloISWsH2FabX7.gif)
 
 # `ls` : Every Linux User's FIrst Bash Command
 
