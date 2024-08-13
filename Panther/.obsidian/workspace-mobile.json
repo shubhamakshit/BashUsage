@@ -22,13 +22,25 @@
               "type": "markdown",
               "state": {
                 "file": "BASH  - An Overview.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f6580c362669d3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scripting Bash.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "BASH  - An Overview.md",
+            "file": "Scripting Bash.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "BASH  - An Overview.md",
+            "file": "Scripting Bash.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "BASH  - An Overview.md"
+            "file": "Scripting Bash.md"
           }
         }
       }
@@ -141,11 +153,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22a6dc4508eddf5a",
+  "active": "6f6580c362669d3e",
   "lastOpenFiles": [
+    "Scripting Bash.md",
+    "BASH  - An Overview.md",
     "Excalidraw/basic_bash.excalidraw.md",
     "Excalidraw/basic_bash.excalidraw.svg",
-    "BASH  - An Overview.md",
     "Excalidraw/Drawing.md",
     "Excalidraw/Drawing 2024-08-13 23.36.39.excalidraw.svg",
     "Excalidraw/Drawing 2024-08-13 21.46.47.excalidraw.md",
@@ -159,7 +172,6 @@
     "Untitled.canvas",
     "Pasted image 20240813215500.png",
     "Pasted image 20240813215407.png",
-    "Untitled.md",
     "Excalidraw/PWDL.excalidraw",
     "Excalidraw"
   ]
