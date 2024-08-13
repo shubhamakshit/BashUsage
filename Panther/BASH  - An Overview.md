@@ -270,3 +270,4 @@ echo [STRING]
 
 - `cd` changes the current directory, `touch` handles file creation and modification, and `echo` is used for text output.
 - Use absolute or relative paths with `cd` and `touch`.
+![Made with VHS](https://vhs.charm.sh/vhs-21Zp571br1PXIS2TXASFwp.gif)
