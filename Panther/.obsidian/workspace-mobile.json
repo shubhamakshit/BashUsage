@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "BASH  - An Overview.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "BASH  - An Overview.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-08-13 21.46.47.excalidraw.md"
+            "file": "BASH  - An Overview.md"
           }
         }
       }
@@ -138,8 +141,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22a6dc4508eddf5a",
+  "active": "c5fa10d238f84c50",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-08-13 21.46.47.excalidraw.md",
     "A developer's guide to Pwdl shell.md",
     "Copied_Item_1723566321668.gif",
     "BASH  - An Overview.md",
@@ -153,7 +157,6 @@
     "Pasted image 20240813215407.png",
     "Untitled.md",
     "Excalidraw/PWDL.excalidraw",
-    "Excalidraw/Drawing 2024-08-13 21.46.47.excalidraw.md",
     "Excalidraw"
   ]
 }

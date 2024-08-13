@@ -170,3 +170,103 @@ mkdir [OPTION] DIRECTORY_NAME
 - Ensure you have the necessary permissions to create directories in the specified location.
 - Use absolute or relative paths as needed.
 ![Made with VHS](https://vhs.charm.sh/vhs-1A3pDbuH90hoCtpALKrmpw.gif)
+
+# Basic Usage of `cd`, `touch`, and `echo`
+
+## `cd` (Change Directory)
+
+The `cd` command is used to change the current working directory.
+
+### Syntax
+
+```
+cd [DIRECTORY]
+```
+
+### Examples
+
+1. **Change to a Directory**
+    ```bash
+    cd my_directory
+    ```
+
+2. **Navigate to Parent Directory**
+    ```bash
+    cd ..
+    ```
+
+3. **Navigate to Home Directory**
+    ```bash
+    cd ~
+    ```
+
+4. **Navigate to Previous Directory**
+    ```bash
+    cd -
+    ```
+
+## `touch` (Create or Modify File)
+
+The `touch` command is used to create an empty file or update the timestamp of an existing file.
+
+### Syntax
+
+```
+touch [FILE]
+```
+
+### Examples
+
+1. **Create a New File**
+    ```bash
+    touch newfile.txt
+    ```
+
+2. **Update File Timestamp**
+    ```bash
+    touch existingfile.txt
+    ```
+
+3. **Create Multiple Files**
+    ```bash
+    touch file1.txt file2.txt
+    ```
+
+## `echo` (Display Message)
+
+The `echo` command is used to display a line of text or a variable's value.
+
+### Syntax
+
+```
+echo [STRING]
+```
+
+### Examples
+
+1. **Display a Simple Message**
+    ```bash
+    echo "Hello, World!"
+    ```
+
+2. **Display a Variable's Value**
+    ```bash
+    my_var="Hello, World!"
+    echo $my_var
+    ```
+
+3. **Print Message Without Newline**
+    ```bash
+    echo -n "Hello, "
+    echo "World!"
+    ```
+
+4. **Print Message with Escape Sequences**
+    ```bash
+    echo -e "Line 1\nLine 2"
+    ```
+
+## Notes
+
+- `cd` changes the current directory, `touch` handles file creation and modification, and `echo` is used for text output.
+- Use absolute or relative paths with `cd` and `touch`.
