@@ -1,5 +1,5 @@
 ![[PWDL.excalidraw]]
-![[PWDL.excalidraw.svg]]
+![](Excalidraw/PWDL.excalidraw.svg)
 ## Basic Usage Of BASH
 
 ### `echo` -> Displaying OUTPUT

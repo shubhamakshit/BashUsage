@@ -11,12 +11,8 @@
             "id": "90e860f672053bab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BASH  - An Overview.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "BASH  - An Overview.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "BASH  - An Overview.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +120,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "BASH  - An Overview.md"
+            "file": "Excalidraw/Drawing 2024-08-13 21.46.47.excalidraw.md"
           }
         }
       }
@@ -146,12 +140,13 @@
   },
   "active": "22a6dc4508eddf5a",
   "lastOpenFiles": [
+    "A developer's guide to Pwdl shell.md",
+    "Copied_Item_1723566321668.gif",
+    "BASH  - An Overview.md",
+    "Ex.md",
     "Excalidraw/PWDL.excalidraw.md",
     "Excalidraw/PWDL.excalidraw.svg",
-    "BASH  - An Overview.md",
     "2024-08-13.md",
-    "Copied_Item_1723566321668.gif",
-    "A developer's guide to Pwdl shell.md",
     "Drawing 2024-08-13 21.56.45.excalidraw.md",
     "Untitled.canvas",
     "Pasted image 20240813215500.png",
