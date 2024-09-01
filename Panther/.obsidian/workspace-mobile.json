@@ -4,43 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "fc35f19bf4a20e2d",
+        "id": "3363652f4b6f8597",
         "type": "tabs",
         "children": [
           {
-            "id": "90e860f672053bab",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c5fa10d238f84c50",
+            "id": "3d0363a3956fbe5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BASH  - An Overview.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f6580c362669d3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scripting Bash.md",
+                "file": "GREP (The Only Way to GRAB).md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed563c36e0659a15",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Regex.excalidraw.md"
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scripting Bash.md",
+            "file": "GREP (The Only Way to GRAB).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Scripting Bash.md",
+            "file": "GREP (The Only Way to GRAB).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Scripting Bash.md"
+            "file": "GREP (The Only Way to GRAB).md"
           }
         }
       }
@@ -150,13 +139,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "whisper:Open recording controls": false
     }
   },
-  "active": "6f6580c362669d3e",
+  "active": "3d0363a3956fbe5a",
   "lastOpenFiles": [
+    "Excalidraw/Regex.excalidraw.md",
+    "GREP (The Only Way to GRAB).md",
+    "Excalidraw/Regex.excalidraw.svg",
+    "Excalidraw/Drawing 2024-09-02 01.26.03.excalidraw.svg",
     "Scripting Bash.md",
     "BASH  - An Overview.md",
+    "Excalidraw/PWDL.excalidraw.md",
+    "2024-08-27.md",
+    "Excalidraw/Drawing 2024-08-27 02.51.48.excalidraw.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-08-24 19.02.30.excalidraw.md",
     "Excalidraw/basic_bash.excalidraw.md",
     "Excalidraw/basic_bash.excalidraw.svg",
     "Excalidraw/Drawing.md",
@@ -165,11 +165,9 @@
     "A developer's guide to Pwdl shell.md",
     "Copied_Item_1723566321668.gif",
     "Ex.md",
-    "Excalidraw/PWDL.excalidraw.md",
     "Excalidraw/PWDL.excalidraw.svg",
     "2024-08-13.md",
     "Drawing 2024-08-13 21.56.45.excalidraw.md",
-    "Untitled.canvas",
     "Pasted image 20240813215500.png",
     "Pasted image 20240813215407.png",
     "Excalidraw/PWDL.excalidraw",

@@ -72,9 +72,7 @@ echo "Hello $name"
 ```
 
 Running the script
-```bash
-# setting executable permission
-chmod +x ./vars.sh
+```bash # setting executable permission chmod +x ./vars.sh
 
 # running the script
 ./vars.sh
@@ -126,3 +124,62 @@ chmod +x ./ariths.sh
 # 20+30
 # 50
 ```
+
+# Reading User Input
+
+The `read` command is used to read user's input from the terminal.
+
+SYNTAX: read [OPTIONS] <variable_name>
+
+The command provides for following flags.
+- `-p PROMPT`: Display a prompt before reading input.
+- `-t SECONDS`: Timeout after a specified number of seconds.
+- `-s`: Silent mode (do not echo input).
+- `-n N`: Read only N characters.
+- `-r`: Do not allow backslashes to escape characters.
+
+```bash
+# filename inp.sh
+
+read -p "Hello There! What's Your Name " NAME
+
+echo "So $NAME you just entered your name"
+
+```
+
+# Practise Question 1 
+### Write a Script using Bash to input a directory and cd to that directory then ls in that directory.
+```
+#!/bin/bash
+# Sample Solution
+# sc_bash.sh
+ls --color=auto
+
+read -p "|Enter the directory name>" dir
+
+cd $dir 
+
+ls -l
+```
+
+![Made with VHS](https://vhs.charm.sh/vhs-6jU7poZTg0AYHWS6xb9tE3.gif)
+
+### Write a script in BASH to input a number and add 20% GST to it. 
+
+ISSUE : You cant just simply multiply floating point numbers in bash 
+SOLUTION : using `bc` [Basic Calculator]
+NOTE:
+We have used the pipe `|`. To know more abut pipe follow this link
+
+```
+# Sample solution 
+# gst.sh
+
+read -p "Enter amount without GST:" amt
+
+bill=$(echo "1.2 * $amt" | bc)
+
+echo "The final amount: $bill"
+```
+
+![Made with VHS](https://vhs.charm.sh/vhs-1Bt5oWwijhWxDi5YLnn573.gif)

@@ -1,4 +1,6 @@
 ![[PWDL.excalidraw]]
+Table Of Contents
+- [Scripting Bash](obsidian://open?vault=Panther&file=Scripting%20Bash)
 ![](Excalidraw/PWDL.excalidraw.svg)
 ## Basic Usage Of BASH
 
